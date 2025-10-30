@@ -16,6 +16,7 @@
 3. Có chức năng phản hồi trạng thái điều khiển, có nghĩa là nếu điều khiển phát ra tín hiệu tương đương với nút ON/OFF đã học lệnh trên Homekit hoặc Home Assistant có thể phản hồi lại trạng thái tương ứng. Ứng dụng đồng bộ trạng thái và dùng điều khiển ra lệnh để tạo nhiều ngữ cảnh thông minh và tiện dụng
 
 4. Ví dụ bạn có thể tận dụng những điều khiển đang có để tạo ngữ cảnh điều khiển cho các thiết bị khác trên Homekit hay Home Assistant (Hass) cũng rất thú vị
+<img width="481" height="411" alt="image" src="https://github.com/user-attachments/assets/3670b483-e810-45a5-8fd1-417feba30deb" />
 
 ⭐️ Thông số kỹ thuật : 
 
